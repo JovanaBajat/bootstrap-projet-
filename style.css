@@ -165,3 +165,52 @@ p {
   color: #fff;
 }
 /*END ABOUT*/
+
+section {
+	margin:150px 0;
+	padding: 150px 0;
+	display: block;
+}
+#portfolio {
+	background-color: #eee;
+	padding: 150px 100px;
+}
+
+section .section-subheading {
+	font-family: "Droid Serif";
+	font-style: italic;
+}
+#portfolio h2 {
+	font-size: 40px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: 'Montserrat';
+
+}
+#portfolio h3 {
+	font-size: 16px;
+	text-transform: none;
+	font-weight: 400;
+	margin-bottom: 75px;
+	font-style: italic;
+}
+#portfolio .portfolio-item {
+	margin: 0 0 30px;
+	right: 0;
+
+}
+.portfolio-caption {
+	background-color: #fff;
+	max-width: 400px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 25px;
+}
+#portfolio h4 {
+	font-weight: bold;
+}
+#portfolio p {
+	font-style: italic;
+	font-size: 1.2em;
+
+}
