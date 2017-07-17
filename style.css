@@ -2,7 +2,7 @@
 .navbar {
   background-color: transparent;
   border: none;
- 
+
   margin-bottom: 0;
   padding: 2em 0;
 }
@@ -117,3 +117,51 @@ p {
 	font-size: 14px;
 	line-height: 1.75;
 }
+
+
+/*ABOUT*/
+#about .row {
+  margin: 2em 0;
+}
+
+#about img {
+  border-radius: 50%;
+  border: 7px solid #F1F1F1;
+}
+
+#about h2 {
+  font-family: 'Montserrat';
+  font-weight: bold;
+  font-size: 40px;
+}
+#about h3 {
+  font-family: 'Droid Serif';
+  font-style: italic;
+  font-size: 16px;
+  color: #777;
+}
+
+#about h4 {
+  font-family: 'Montserrat';
+  font-weight: bold;
+}
+
+#about p {
+  font-family: 'Roboto Slab', serif;
+  color: #777;
+}
+#about .yellow {
+  margin: auto;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background-color: #FED136;
+  border: 7px solid #F1F1F1;
+  display: flex;
+  align-items: center;
+}
+#about .yellow h4 {
+  text-align: center;
+  color: #fff;
+}
+/*END ABOUT*/
